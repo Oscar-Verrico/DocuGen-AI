@@ -21,4 +21,5 @@ Planned features:
   
 * Config.json file to store options for running code and saving results
   - Auto-add generated documentation to parsed files
-  - Save results to an output.txt 
+  - Save results to an output.txt
+  - a token limit per documentation generated 
