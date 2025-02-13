@@ -4,10 +4,13 @@ Currently, it only extracts information from python files, but other popular pro
 The program also relies on a .env foel to store your OpenAI API key and selected model, so yoiu will have to manualy change that with your own OpenAI info for the program to utilize.
 
 To set up the program's needed requirements run this command in the base directory of the project:
+
 pip install -r requirements.txt
 
-TO run the program run this command in a python 3.10+ environment:
+To run the program run this command in a python 3.10+ environment:
+
 python main.py
+
 
 Planned features:
 
